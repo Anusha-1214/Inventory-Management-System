@@ -1,0 +1,40 @@
+--------------------------------
+Product 1 Added
+Add Success = 1
+Product Count =  1
+
+--------------------------------
+Searching Product 1
+Product Found = 1
+Quantity = 100
+Price = 500
+
+--------------------------------
+Adding More Stock
+Add Success = 1
+
+--------------------------------
+Product After Adding Stock
+Quantity = 150
+
+--------------------------------
+Removing 30 Units
+Remove Success = 1
+
+--------------------------------
+Product After Removal
+Quantity = 120
+
+--------------------------------
+Updating Product Price
+Update Success = 1
+
+--------------------------------
+Product After Price Update
+Quantity = 120
+Price = 600
+
+--------------------------------
+Trying to Remove 200 Units
+Remove Success = 0
+Insufficient Stock = 1
